@@ -150,25 +150,25 @@ Through this project, I gained hands-on experience in:
 
 ### Employee Master Report
 
-![Employee Master Report](screenshots/employee_master_report.png)
+![Employee Master Report](employee_master_report.png)
 
 ---
 
 ### Department-wise Performance Summary
 
-![Department Performance](screenshots/department_performance_summary.png)
+![Department Performance](department_performance_summary.png)
 
 ---
 
 ### Promotion Eligibility Report
 
-![Promotion Eligibility](screenshots/promotion_eligibility_report.png)
+![Promotion Eligibility](promotion_eligibility_report.png)
 
 ---
 
 ### Stored Procedure Output
 
-![Stored Procedure](screenshots/stored_procedure_output.png)
+![Stored Procedure](stored_procedure_output.png)
 ## Author
 
 **Shanmathi Sampath**
