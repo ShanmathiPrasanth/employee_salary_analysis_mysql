@@ -146,7 +146,29 @@ Through this project, I gained hands-on experience in:
 - Perform advanced KPI analysis
 
 ---
+## Project Screenshots
 
+### Employee Master Report
+
+![Employee Master Report](screenshots/employee_master_report.png)
+
+---
+
+### Department-wise Performance Summary
+
+![Department Performance](screenshots/department_performance_summary.png)
+
+---
+
+### Promotion Eligibility Report
+
+![Promotion Eligibility](screenshots/promotion_eligibility_report.png)
+
+---
+
+### Stored Procedure Output
+
+![Stored Procedure](screenshots/stored_procedure_output.png)
 ## Author
 
 **Shanmathi Sampath**
