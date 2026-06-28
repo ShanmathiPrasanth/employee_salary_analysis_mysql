@@ -38,4 +38,4 @@ end //
 delimiter ;
 
 -- example
-call fetch_employees_details(45000);
+call fetch_employees_details(35000);
