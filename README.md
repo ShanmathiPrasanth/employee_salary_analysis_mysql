@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates SQL skills by solving real-world HR and salary analysis business problems using MySQL.
+Business-oriented SQL project that analyzes employee salary, department, job, and performance data using MySQL to generate HR insights.
 
 A relational database was designed with multiple tables and analyzed using SQL concepts such as JOINs, Aggregate Functions, Common Table Expressions (CTEs), Window Functions, Subqueries, Stored Procedures, and Temporary Tables.
 
